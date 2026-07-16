@@ -47,7 +47,6 @@ I'm a passionate developer with a strong interest in building secure, scalable, 
 |---------|-----------|
 | 🔒 **CryptChat** | [Live](https://cryptchat-blond.vercel.app) |
 | 🛡️ **ThreatLens** | [Live](https://threatlens-swart.vercel.app) |
-| 🌐 **Portfolio** | [Live](https://amal-george-portfolio.vercel.app) |
 
 ---
 
