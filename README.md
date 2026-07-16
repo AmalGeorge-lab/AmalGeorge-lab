@@ -43,11 +43,11 @@ I'm a passionate developer with a strong interest in building secure, scalable, 
 
 ## 🚀 Featured Projects
 
-### 🔒 CryptChat
-A secure real-time messaging application featuring end-to-end encryption, built with the MERN stack and modern web technologies.
-
-### 🛡️ ThreatLens
-A cybersecurity-focused web application designed to help analyze and understand potential security threats.
+| Project | Live Demo |
+|---------|-----------|
+| 🔒 **CryptChat** | [Live](https://cryptchat-blond.vercel.app) |
+| 🛡️ **ThreatLens** | [Live](https://threatlens-swart.vercel.app) |
+| 🌐 **Portfolio** | [Live](https://amal-george-portfolio.vercel.app) |
 
 ---
 
@@ -60,13 +60,6 @@ A cybersecurity-focused web application designed to help analyze and understand 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalGeorge-lab&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalGeorge-lab&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
